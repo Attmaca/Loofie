@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/brand_header_minimal.png" height="20%" alt="Loofie - Study Coach" />
+  <img src="docs/assets/brand_header_minimal.png" height="10%" alt="Loofie - Study Coach" />
 
   <br />
 
