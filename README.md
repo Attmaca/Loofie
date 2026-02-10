@@ -119,7 +119,7 @@ Loofie is actively developed and available on app stores.
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1234567890&h=abc" alt="Download on the App Store" height="50" />
 </a>
 <a href="YOUR_PLAY_STORE_LINK" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55" />
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="52" />
 </a>
 
 ---
