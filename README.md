@@ -1,6 +1,7 @@
-<h1 align="center">Loofie</h1>
+<div align="center">
+  <h1>Loofie</h1>
 
-<h3 align="center">"Master Your Focus. Crush Your Goals."</h3>
+  <h3>"Master Your Focus. Crush Your Goals."</h3>
   
   <p>
     The <b>AI-powered productivity system</b> for high-performance students. <br/>
