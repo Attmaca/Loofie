@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/brand_title.png" width="100%" alt="Loofie - AI Study Coach" />
+  <img src="docs/assets/brand_header_minimal.png" width="100%" alt="Loofie - Study Coach" />
 
   <br />
 
@@ -135,4 +135,4 @@ support@loofie.app
 
 This project is **Closed Source**. Intellectual property rights are reserved.
 
-**Copyright © 2024 Ahmet Atmaca.**
+**Copyright © 2026 Ahmet Atmaca.**
