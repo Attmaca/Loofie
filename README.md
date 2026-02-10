@@ -1,8 +1,9 @@
-# Loofie - AI Study Coach
+<div align="center">
+  <h1>Loofie - AI Study Coach</h1>
 
-![Loofie Banner](docs/assets/banner.png)
+  <br />
 
-<p align="center">
+  <!-- Badges -->
   <a href="https://flutter.dev">
     <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   </a>
@@ -12,11 +13,20 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Architecture-Clean-000000?style=for-the-badge&logo=codereview&logoColor=white" alt="Clean Architecture" />
   </a>
-</p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Focus-AI_Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
+  </a>
 
-> **"Discipline and motivation for modern students, all in one app."**
+  <br />
+  <br />
 
-Loofie is a comprehensive productivity platform combining habit tracking, focus techniques (Pomodoro), and personalized guidance. Developed with a strong emphasis on User Experience (UX), it is designed to help students crush their academic goals.
+  <h3>"Discipline and motivation for modern students, all in one app."</h3>
+
+  <p>
+    <b>Loofie</b> redefines student productivity by fusing <b>proven focus techniques</b> with <b>behavioral AI</b>. <br/>
+    More than just a timer, it’s a digital mentor designed to cultivate deep work habits and crush academic goals.
+  </p>
+</div>
 
 ---
 
