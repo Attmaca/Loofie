@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/assets/brand_text_header.png" height="50" alt="Loofie" />
-</p>
+<h1 align="center">Loofie</h1>
 
 <h3 align="center">"Master Your Focus. Crush Your Goals."</h3>
   
