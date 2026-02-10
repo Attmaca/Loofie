@@ -1,8 +1,8 @@
-  <img src="docs/assets/brand_text_header.png" height="60" alt="Loofie" />
+<p align="center">
+  <img src="docs/assets/brand_text_header.png" height="50" alt="Loofie" />
+</p>
 
-  <br />
-
-  <h3 align="center">"Master Your Focus. Crush Your Goals."</h3>
+<h3 align="center">"Master Your Focus. Crush Your Goals."</h3>
   
   <p>
     The <b>AI-powered productivity system</b> for high-performance students. <br/>
@@ -73,7 +73,7 @@ This project is not just app development, but an exercise in building a **sustai
 
 ### 🏗 Software Architecture 
 Designed to be change-resilient and technology-agnostic.
-*   **Separation of Concerns:** Business logic (Domain) is completely isolated from database or UI.
+*   **Separation of Concerns:** Business logic is completely isolated from database or UI.
 *   **Technology Agnostic:** Database or service providers used today can be swapped tomorrow without breaking the core application.
 *   **Testability:** Each module can be tested independently.
 
