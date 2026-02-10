@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="docs/assets/brand_header_transparent.png" height="80" alt="Loofie - Study Coach" />
+  <h1 align="center" style="font-size: 3rem; margin-bottom: 0px;">
+    <font color="#2563EB">Loofie</font>
+  </h1>
 
   <br />
 
