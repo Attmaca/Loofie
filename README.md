@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="docs/assets/logo.png" width="120" height="120" alt="Loofie Logo" style="border-radius: 20px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
-  
-  <br />
-  <br />
+  <img src="docs/assets/brand_title.png" width="100%" alt="Loofie - AI Study Coach" />
 
-  <h1>Loofie</h1>
+  <br />
 
   <h3>"Master Your Focus. Crush Your Goals."</h3>
   
