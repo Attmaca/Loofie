@@ -1,10 +1,8 @@
-  <h1 align="center" style="font-size: 3rem; margin-bottom: 0px;">
-    <font color="#2563EB">Loofie</font>
-  </h1>
+  <img src="docs/assets/brand_text_header.png" height="60" alt="Loofie" />
 
   <br />
 
-  <h3>"Master Your Focus. Crush Your Goals."</h3>
+  <h3 align="center">"Master Your Focus. Crush Your Goals."</h3>
   
   <p>
     The <b>AI-powered productivity system</b> for high-performance students. <br/>
